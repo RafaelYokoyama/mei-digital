@@ -1,0 +1,97 @@
+{
+  "services": [
+    {
+      "id": "1",
+      "name": "Desenvolvimento de Website",
+      "description": "Criação de website responsivo com as melhores práticas de desenvolvimento e SEO.",
+      "price": 5000
+    },
+    {
+      "id": "2",
+      "name": "Design de Logo",
+      "description": "Design profissional de logotipo com múltiplas variações e formatos.",
+      "price": 1500
+    },
+    {
+      "id": "3",
+      "name": "Desenvolvimento Mobile",
+      "description": "Criação de aplicativos nativos para iOS e Android",
+      "price": 4500
+    },
+    {
+      "id": "4",
+      "name": "Consultoria Técnica",
+      "description": "Consultoria especializada em arquitetura de software e boas práticas",
+      "price": 1800
+    },
+    {
+      "id": "5",
+      "name": "Manutenção de Sistemas",
+      "description": "Serviço mensal de manutenção e atualização de sistemas",
+      "price": 1200
+    },
+    {
+      "id": "ca04",
+      "name": "Website Rafael",
+      "description": "website rafa",
+      "price": 1500
+    },
+    {
+      "id": "242c",
+      "name": "RAFAEL GAVA YOKOYAMA",
+      "description": "22",
+      "price": 2.22
+    },
+    {
+      "id": "3db0",
+      "name": "teste 01",
+      "description": "teste",
+      "price": 111.11
+    },
+    {
+      "id": "403f",
+      "name": "Logo maria",
+      "description": "logo da amria",
+      "price": 120
+    }
+  ],
+  "contracts": [],
+  "contracted-services": [
+    {
+      "id": "1751592303966",
+      "serviceId": "1",
+      "name": "Desenvolvimento de Website",
+      "description": "Criação de website responsivo com as melhores práticas de desenvolvimento e SEO.",
+      "price": 5000,
+      "status": "active",
+      "contractedAt": "2025-07-04T01:25:03.966Z"
+    },
+    {
+      "id": "1751592590512",
+      "serviceId": "4",
+      "name": "Consultoria Técnica",
+      "description": "Consultoria especializada em arquitetura de software e boas práticas",
+      "price": 1800,
+      "status": "active",
+      "contractedAt": "2025-07-04T01:29:50.512Z"
+    },
+    {
+      "id": "1751636107803",
+      "serviceId": "5",
+      "name": "Manutenção de Sistemas",
+      "description": "Serviço mensal de manutenção e atualização de sistemas",
+      "price": 1200,
+      "status": "active",
+      "contractedAt": "2025-07-04T13:35:07.803Z"
+    },
+    {
+      "id": "1751636778773",
+      "serviceId": "403f",
+      "name": "Logo maria",
+      "description": "logo da amria",
+      "price": 120,
+      "status": "active",
+      "contractedAt": "2025-07-04T13:46:18.773Z"
+    }
+  ]
+}
