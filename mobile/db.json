@@ -1,0 +1,143 @@
+{
+  "services": [
+    {
+      "id": "1",
+      "name": "Desenvolvimento de Sites",
+      "description": "Criação de sites profissionais e responsivos com as melhores tecnologias do mercado.",
+      "price": 2500,
+      "category": "Tecnologia",
+      "userId": "1"
+    },
+    {
+      "id": "2",
+      "name": "Design de Logotipos",
+      "description": "Design de logotipos modernos e profissionais para sua marca.",
+      "price": 800,
+      "category": "Design",
+      "userId": "1"
+    },
+    {
+      "id": "3",
+      "name": "Consultoria em UX/UI",
+      "description": "Análise completa da experiência do usuário e redesign de interfaces para melhorar conversões e usabilidade.",
+      "price": 1800,
+      "category": "Design",
+      "image": "https://via.placeholder.com/300x200?text=UX+Design",
+      "duration": "1-3 semanas",
+      "provider": "Design Pro"
+    },
+    {
+      "id": "4",
+      "name": "Marketing Digital",
+      "description": "Estratégia completa de marketing digital incluindo SEO, redes sociais, campanhas pagas e análise de resultados.",
+      "price": 3200,
+      "category": "Marketing",
+      "image": "https://via.placeholder.com/300x200?text=Marketing",
+      "duration": "3-6 meses",
+      "provider": "Growth Marketing"
+    },
+    {
+      "id": "5",
+      "name": "Identidade Visual",
+      "description": "Criação de logotipo, manual de marca, cartão de visita e materiais gráficos para sua empresa.",
+      "price": 1200,
+      "category": "Design",
+      "image": "https://via.placeholder.com/300x200?text=Branding",
+      "duration": "1-2 semanas",
+      "provider": "Creative Studio"
+    },
+    {
+      "id": "6",
+      "name": "E-commerce Completo",
+      "description": "Loja virtual completa com sistema de pagamento, gestão de estoque, painel administrativo e integração com correios.",
+      "price": 5500,
+      "category": "Desenvolvimento",
+      "image": "https://via.placeholder.com/300x200?text=E-commerce",
+      "duration": "6-10 semanas",
+      "provider": "E-commerce Solutions"
+    },
+    {
+      "id": "df93",
+      "name": "Criar logo",
+      "description": "Criar logo",
+      "price": 150,
+      "category": "Designer",
+      "provider": "Rafa",
+      "duration": "4 dias",
+      "image": "https://via.placeholder.com/300x200?text=Criar%20logo"
+    },
+    {
+      "id": "9fe4",
+      "name": "website",
+      "description": "website",
+      "price": 1000,
+      "category": "website",
+      "provider": "joo",
+      "duration": "2 dias",
+      "image": "https://via.placeholder.com/300x200?text=website"
+    },
+    {
+      "id": "a58a",
+      "name": "sistema",
+      "description": "sistema",
+      "price": 1000,
+      "category": "website",
+      "provider": "Ana",
+      "duration": "6 dias",
+      "image": "https://via.placeholder.com/300x200?text=sistema"
+    },
+    {
+      "id": "03b5",
+      "name": "aplicativo",
+      "description": "aplicativo",
+      "price": 1000,
+      "category": "Desenvovlimento ",
+      "provider": "Ana app",
+      "duration": "2 dias",
+      "image": "https://via.placeholder.com/300x200?text=aplicativo"
+    },
+    {
+      "id": "7d6f",
+      "name": "Website",
+      "description": "webiste do Rafael",
+      "price": 1500,
+      "category": "Desenvolvimento",
+      "provider": "Joo",
+      "duration": "2 semanas",
+      "image": "https://via.placeholder.com/300x200?text=Website"
+    },
+    {
+      "id": "ef3c",
+      "name": "logo rafael",
+      "description": "logo rafael\n",
+      "price": 100,
+      "category": "designer",
+      "provider": "jo",
+      "duration": "2 semanas ",
+      "image": "https://via.placeholder.com/300x200?text=logo%20rafael"
+    },
+    {
+      "id": "7e0c",
+      "name": "web rafael",
+      "description": "web rafael",
+      "price": 1000,
+      "category": "Desenvovlvimento",
+      "provider": "Ana",
+      "duration": "2 semanas",
+      "image": "https://via.placeholder.com/300x200?text=web%20rafael"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@test.com",
+      "name": "Admin"
+    },
+    {
+      "id": "2",
+      "email": "user@test.com",
+      "name": "Usuário"
+    }
+  ],
+  "contracts": []
+}
